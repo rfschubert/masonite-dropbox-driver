@@ -3,11 +3,12 @@ from setuptools import setup
 setup(
     name="masonite-dropbox-driver",
     packages=[
-        'masonite_dropbox_driver',
-        'masonite_dropbox_driver.drivers',
-        'masonite_dropbox_driver.providers',
+        'masonite',
+        'masonite.contrib',
+        'masonite.contrib.drivers',
+        'masonite.contrib.providers',
     ],
-    version='0.0.1',
+    version='0.0.2',
     install_requires=[
         'dropbox',
     ],

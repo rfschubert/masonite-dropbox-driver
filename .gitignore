@@ -5,4 +5,4 @@ venv
 .pytest_cache
 dist
 build
-masonite_dropbox_driver.egg-info
+*.egg-info

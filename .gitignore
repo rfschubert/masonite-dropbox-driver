@@ -3,6 +3,6 @@
 venv
 .DS_Store
 .pytest_cache
-dist/
-build/
-*.egg-info
+dist
+build
+masonite_dropbox_driver.egg-info

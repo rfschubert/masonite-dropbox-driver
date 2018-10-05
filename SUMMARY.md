@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Masonite Dropbox Driver](README.md)
-* [Introduction](introduction.md)
+* [Introduction](README.md)
 
 ## Packages
 

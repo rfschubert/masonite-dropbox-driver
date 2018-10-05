@@ -61,9 +61,7 @@ class ActivityController:
     def store(self, Upload, Request):
         Upload.driver('dropbox').store(Request.input('file_upload'))
         return Request.redirect_to('dashboard')
-
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
-
 
